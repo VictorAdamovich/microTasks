@@ -7,6 +7,7 @@ export const Footer = (props:FooterType) => {
     return(
         <>
             {props.titleForFooter}
+            <hr/>
         </>
     )
 
